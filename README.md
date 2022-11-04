@@ -1,6 +1,6 @@
 # Conky
 ![Screenshot from 2022-11-04 18-16-45](https://user-images.githubusercontent.com/117321045/200047237-644f0fd3-7fcc-4bbb-af2a-d4623f34c9b6.png)
-![Screenshot from 2022-11-04 18-36-05](https://user-images.githubusercontent.com/117321045/200050439-4110e115-b8c2-4242-9c52-e1cac2fab179.png)
+
 
 ## Installazione
 installa conky con sudo pacman -S conky
