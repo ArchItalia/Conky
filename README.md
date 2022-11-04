@@ -21,4 +21,5 @@ configurazione del file conky.desktop
 - pacman-contrib / sudo pacman -S pacman-contrib
 - rankmirrors / git clone https://aur.archlinux.org/rankmirrors.git / cd rankmirrors / makepkg -si
 - upower / sudo pacman -S upower
--jq / sudo pacman -S jq
+- jq / sudo pacman -S jq
+- otf-font-awesome / sudo pacman otf-font-awesome / queste sono le icone scelte potete modificare con le vostre se volete.
