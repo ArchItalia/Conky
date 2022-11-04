@@ -20,7 +20,7 @@ configurazione del file conky.desktop
 
 ### Dipendenze di questa configurazione:
 
-- nvidia-smi / sudo pacman -S nvidia [commentare con # la linea 57 relativa a GPU nvidia in caso non abbiate questa scheda]
+- nvidia-smi / sudo pacman -S nvidia [commentare con # la linea 57 config.conf relativa a GPU nvidia in caso non abbiate questa scheda]
 - pacman-contrib / sudo pacman -S pacman-contrib
 - rankmirrors / git clone https://aur.archlinux.org/rankmirrors.git / cd rankmirrors / makepkg -si
 - upower / sudo pacman -S upower
