@@ -1,0 +1,2 @@
+# Conky
+Conky script ArchItalia
