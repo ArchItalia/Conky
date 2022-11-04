@@ -25,3 +25,10 @@ configurazione del file conky.desktop
 - upower / sudo pacman -S upower
 - jq / sudo pacman -S jq
 - otf-font-awesome / sudo pacman otf-font-awesome / queste sono le icone scelte potete modificare con le vostre se volete.
+- Cantarell / font di sistema base
+
+#### Life 
+per configurare Life il conteggio da quando vive il sistema basta seguire l'indicazione all'interno dello script life.sh si tratta semplicemente di inserire la data da quando e' installato il sistema anno/mese/giorno.
+
+#### Power 
+Power e' uno script alpha per qualsiasi bug segnalare sul gruppo facebook grazie.
