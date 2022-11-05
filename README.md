@@ -29,6 +29,10 @@ configurazione del file conky.desktop
 - otf-font-awesome / sudo pacman otf-font-awesome / queste sono le icone scelte potete modificare con le vostre se volete.
 - Cantarell / font di sistema base
 
+#### Transparenza 
+Per rendere transparente questa configurazione sara necessario cancellare linea 38 own_window_colour = '2b2a33', e impostare own_window_transparent = false, nel file conky.conf
+
+
 #### Life 
 per configurare Life il conteggio da quando vive il sistema basta seguire l'indicazione all'interno dello script life.sh si tratta semplicemente di inserire la data da quando e' installato il sistema anno/mese/giorno.
 
