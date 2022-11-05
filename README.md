@@ -6,6 +6,7 @@
 ## Installazione
 installa conky con sudo pacman -S conky
 copia la cartella conky in ~/.config/
+Aprire il terminale e digitare chmod +X ~/.config/conky/scripts/*
 
 ## Autostart
 crea il file conky.desktop e aggiungilo in ~/.config/autostart/ quindi effettua un logout e riaccedi.
