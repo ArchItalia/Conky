@@ -22,7 +22,7 @@ configurazione del file conky.desktop
 
 - nvidia-smi / sudo pacman -S nvidia [commentare con # la linea 57 conky.conf relativa a GPU nvidia in caso non abbiate questa scheda]
 - pacman-contrib / sudo pacman -S pacman-contrib
-- reflector / sudo pacman -S reflector 
+- reflector / sudo pacman -S reflector / opzionale per mirrors e' possibile abilitare reflector.service per aggiornare i servers al boot vedi https://wiki.archlinux.org/title/Reflector
 - upower / sudo pacman -S upower
 - jq / sudo pacman -S jq
 - otf-font-awesome / sudo pacman otf-font-awesome / queste sono le icone scelte potete modificare con le vostre se volete.
