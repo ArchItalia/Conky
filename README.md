@@ -28,7 +28,7 @@ configurazione del file conky.desktop
 - jq / sudo pacman -S jq
 - otf-font-awesome / sudo pacman otf-font-awesome / queste sono le icone scelte potete modificare con le vostre se volete.
 - Cantarell / font di sistema base
-- lm_sensor / sudo pacman -S lm_sensor SOLO IN CASO non venga rilevata la temperatura della CPU con ERRORE can't open '/sys/class/hwmon/hwmon1/temp1_input
+- lm_sensor / sudo pacman -S lm_sensor SOLO IN CASO non venga rilevata la temperatura della CPU con errore simile: can't open '/sys/class/hwmon/hwmon1/temp1_input
 
 
 #### Transparenza 
