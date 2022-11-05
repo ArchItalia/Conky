@@ -37,3 +37,11 @@ Per rendere transparente questa configurazione sara necessario cancellare linea 
 
 #### Power 
 Power e' uno script alpha per qualsiasi bug segnalare sul gruppo facebook grazie.
+
+#### Temperatura hwmon CPU
+in linea 59 impostare la propria configurazione:
+
+- Ivy Bridge CPU ${hwmon 2 temp 1}°C
+- Skylake CPU ${hwmon 0 temp 1}°C
+- (possibly due to new kernel) on the same Skylake CPU I switched to: {hwmon 1 temp 1}°C
+
