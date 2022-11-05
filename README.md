@@ -1,6 +1,6 @@
 # Conky
 
-![Screenshot from 2022-11-05 02-38-34](https://user-images.githubusercontent.com/117321045/200097466-838d4e2c-5bc2-43c3-8257-56d5a3c14ba3.png)
+![Untitled](https://user-images.githubusercontent.com/117321045/200119412-47e0fb36-c26f-4288-9218-1b170aa6a0bc.png)
 
 
 ## Installazione
