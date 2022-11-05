@@ -2,8 +2,10 @@
 # author Jonathan Sanfilippo
 
 
-url="$HOME/.config/conky/data/mirrors"
-SRV=$(rankmirrors -t   /etc/pacman.d/mirrorlist | wc -l );   
-Srv=$( expr $SRV - 3);   
+file="$HOME/.config/conky/data/mirrors"
+mirrorlist=$(cat /etc/pacman.d/mirrorlist | wc -l );   
+diff=$( expr $mirrorlist - 10);   
 
-echo  $Srv > $url
+echo "$diff" > "$file" 
+
+
