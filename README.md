@@ -1,9 +1,5 @@
 # Conky
 ![Untitled](https://user-images.githubusercontent.com/117321045/200119484-c0daa42d-6e26-4b0d-a085-86aa37c815b7.png)
-#### Contributori della community ArchItalia
-- Gianluca D'andrea
-- Luca Ruggeri
-
 
 ## Installazione
 - installa conky con sudo pacman -S conky
@@ -47,3 +43,6 @@ in linea 59 impostare la propria configurazione:
 - Skylake CPU ${hwmon 0 temp 1}°C
 - (possibly due to new kernel) on the same Skylake CPU I switched to: {hwmon 1 temp 1}°C
 
+#### Contributori alla configurazione della community ArchItalia
+- Gianluca D'andrea
+- Luca Ruggeri
