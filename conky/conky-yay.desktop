@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Conky-Yay
+Exec=kgx -e "/home/jonathan/.config/conky/scripts/yay.sh"
+Icon=/home/jonathan/.config/conky/img/icon-yay.png
+Type=Application
+Terminal=false
+Categories=Utility
+

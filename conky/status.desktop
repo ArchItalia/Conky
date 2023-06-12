@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=System-Status
+Exec=/home/jonathan/.config/conky/start
+Icon=/home/jonathan/.config/conky/img/icon.png
+Type=Application
+Terminal=false
+Categories=Utility
+
